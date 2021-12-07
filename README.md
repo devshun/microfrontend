@@ -1,1 +1,1 @@
-microfrontend demo app with Tailwind
+microfrontends demo app with Tailwind
